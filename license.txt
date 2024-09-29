@@ -8,4 +8,4 @@ Metronome click: Click 1 by wasserbjorn
 
 Feel free to distribute and stuff, lol
 
-Github link: <placeholder>
+Github link: https://github.com/jesusfancypants/SaxTrainer3000
