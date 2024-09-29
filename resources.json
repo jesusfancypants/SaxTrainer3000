@@ -1,0 +1,240 @@
+{
+    "Alto": {
+      "A#3": {
+        "finger_chart": "fingering_chart/alto/A#3.png",
+        "audio": "sounds/alto/A#3.wav"
+      },
+      "B♭3": {
+        "finger_chart": "fingering_chart/alto/A#3.png",
+        "audio": "sounds/alto/A#3.wav"
+      },
+      "B3": {
+        "finger_chart": "fingering_chart/alto/B3.png",
+        "audio": "sounds/alto/B3.wav"
+      },
+      "C♭4": {
+        "finger_chart": "fingering_chart/alto/B3.png",
+        "audio": "sounds/alto/B3.wav"
+      },
+      "C4": {
+        "finger_chart": "fingering_chart/alto/C4.png",
+        "audio": "sounds/alto/C4.wav"
+      },
+      "B#3": {
+        "finger_chart": "fingering_chart/alto/C4.png",
+        "audio": "sounds/alto/C4.wav"
+      },
+      "C#4": {
+        "finger_chart": "fingering_chart/alto/C#4.png",
+        "audio": "sounds/alto/C#4.wav"
+      },
+      "D♭4": {
+        "finger_chart": "fingering_chart/alto/C#4.png",
+        "audio": "sounds/alto/C#4.wav"
+      },
+      "D4": {
+        "finger_chart": "fingering_chart/alto/D4.png",
+        "audio": "sounds/alto/D4.wav"
+      },
+      "D#4": {
+        "finger_chart": "fingering_chart/alto/D#4.png",
+        "audio": "sounds/alto/D#4.wav"
+      },
+      "E♭4": {
+        "finger_chart": "fingering_chart/alto/D#4.png",
+        "audio": "sounds/alto/D#4.wav"
+      },
+      "E4": {
+        "finger_chart": "fingering_chart/alto/E4.png",
+        "audio": "sounds/alto/E4.wav"
+      },
+      "F♭4": {
+        "finger_chart": "fingering_chart/alto/E4.png",
+        "audio": "sounds/alto/E4.wav"
+      },
+      "F4": {
+        "finger_chart": "fingering_chart/alto/F4.png",
+        "audio": "sounds/alto/F4.wav"
+      },
+      "E#4": {
+        "finger_chart": "fingering_chart/alto/F4.png",
+        "audio": "sounds/alto/F4.wav"
+      },
+      "F#4": {
+        "finger_chart": "fingering_chart/alto/F#4_1.png;fingering_chart/alto/F#4_2.png",
+        "audio": "sounds/alto/F#4.wav"
+      },
+      "G♭4": {
+        "finger_chart": "fingering_chart/alto/F#4_1.png;fingering_chart/alto/F#4_2.png",
+        "audio": "sounds/alto/F#4.wav"
+      },
+      "G4": {
+        "finger_chart": "fingering_chart/alto/G4.png",
+        "audio": "sounds/alto/G4.wav"
+      },
+      "G#4": {
+        "finger_chart": "fingering_chart/alto/G#4.png",
+        "audio": "sounds/alto/G#4.wav"
+      },
+      "A♭4": {
+        "finger_chart": "fingering_chart/alto/G#4.png",
+        "audio": "sounds/alto/G#4.wav"
+      },
+      "A4": {
+        "finger_chart": "fingering_chart/alto/A4.png",
+        "audio": "sounds/alto/A4.wav"
+      },
+      "A#4": {
+        "finger_chart": "fingering_chart/alto/A#4_1.png;fingering_chart/alto/A#4_2.png;fingering_chart/alto/A#4_3.png",
+        "audio": "sounds/alto/A#4.wav"
+      },
+      "B♭4": {
+        "finger_chart": "fingering_chart/alto/A#4_1.png;fingering_chart/alto/A#4_2.png;fingering_chart/alto/A#4_3.png",
+        "audio": "sounds/alto/A#4.wav"
+      },
+      "B4": {
+        "finger_chart": "fingering_chart/alto/B4.png",
+        "audio": "sounds/alto/B4.wav"
+      },
+      "C♭5": {
+        "finger_chart": "fingering_chart/alto/B4.png",
+        "audio": "sounds/alto/B4.wav"
+      },
+      "C5": {
+        "finger_chart": "fingering_chart/alto/C5_1.png;fingering_chart/alto/C5_2.png",
+        "audio": "sounds/alto/C5.wav"
+      },
+      "B#4": {
+        "finger_chart": "fingering_chart/alto/C5_1.png;fingering_chart/alto/C5_2.png",
+        "audio": "sounds/alto/C5.wav"
+      },
+      "C#5": {
+        "finger_chart": "fingering_chart/alto/C#5.png",
+        "audio": "sounds/alto/C#5.wav"
+      },
+      "D♭5": {
+        "finger_chart": "fingering_chart/alto/C#5.png",
+        "audio": "sounds/alto/C#5.wav"
+      },
+      "D5": {
+        "finger_chart": "fingering_chart/alto/D5.png",
+        "audio": "sounds/alto/D5.wav"
+      },
+      "D#5": {
+        "finger_chart": "fingering_chart/alto/D#5.png",
+        "audio": "sounds/alto/D#5.wav"
+      },
+      "E♭5": {
+        "finger_chart": "fingering_chart/alto/D#5.png",
+        "audio": "sounds/alto/D#5.wav"
+      },
+      "E5": {
+        "finger_chart": "fingering_chart/alto/E5.png",
+        "audio": "sounds/alto/E5.wav"
+      },
+      "F♭5": {
+        "finger_chart": "fingering_chart/alto/E5.png",
+        "audio": "sounds/alto/E5.wav"
+      },
+      "F5": {
+        "finger_chart": "fingering_chart/alto/F5.png",
+        "audio": "sounds/alto/F5.wav"
+      },
+      "E#5": {
+        "finger_chart": "fingering_chart/alto/F5.png",
+        "audio": "sounds/alto/F5.wav"
+      },
+      "F#5": {
+        "finger_chart": "fingering_chart/alto/F#5_1.png;fingering_chart/alto/F#5_2.png",
+        "audio": "sounds/alto/F#5.wav"
+      },
+      "G♭5": {
+        "finger_chart": "fingering_chart/alto/F#5_1.png;fingering_chart/alto/F#5_2.png",
+        "audio": "sounds/alto/F#5.wav"
+      },
+      "G5": {
+        "finger_chart": "fingering_chart/alto/G5.png",
+        "audio": "sounds/alto/G5.wav"
+      },
+      "G#5": {
+        "finger_chart": "fingering_chart/alto/G#5.png",
+        "audio": "sounds/alto/G#5.wav"
+      },
+      "A♭5": {
+        "finger_chart": "fingering_chart/alto/G#5.png",
+        "audio": "sounds/alto/G#5.wav"
+      },
+      "A5": {
+        "finger_chart": "fingering_chart/alto/A5.png",
+        "audio": "sounds/alto/A5.wav"
+      },
+      "A#5": {
+        "finger_chart": "fingering_chart/alto/A#5_1.png;fingering_chart/alto/A#5_2.png;fingering_chart/alto/A#5_3.png",
+        "audio": "sounds/alto/A#5.wav"
+      },
+      "B♭5": {
+        "finger_chart": "fingering_chart/alto/A#5_1.png;fingering_chart/alto/A#5_2.png;fingering_chart/alto/A#5_3.png",
+        "audio": "sounds/alto/A#5.wav"
+      },
+      "B5": {
+        "finger_chart": "fingering_chart/alto/B5.png",
+        "audio": "sounds/alto/B5.wav"
+      },
+      "C♭6": {
+        "finger_chart": "fingering_chart/alto/B5.png",
+        "audio": "sounds/alto/B5.wav"
+      },
+      "C6": {
+        "finger_chart": "fingering_chart/alto/C6_1.png;fingering_chart/alto/C6_2.png",
+        "audio": "sounds/alto/C6.wav"
+      },
+      "B#5": {
+        "finger_chart": "fingering_chart/alto/C6_1.png;fingering_chart/alto/C6_2.png",
+        "audio": "sounds/alto/C6.wav"
+      },
+      "C#6": {
+        "finger_chart": "fingering_chart/alto/C#6.png",
+        "audio": "sounds/alto/C#6.wav"
+      },
+      "D♭6": {
+        "finger_chart": "fingering_chart/alto/C#6.png",
+        "audio": "sounds/alto/C#6.wav"
+      },
+      "D6": {
+        "finger_chart": "fingering_chart/alto/D6.png",
+        "audio": "sounds/alto/D6.wav"
+      },
+      "D#6": {
+        "finger_chart": "fingering_chart/alto/D#6.png",
+        "audio": "sounds/alto/D#6.wav"
+      },
+      "E♭6": {
+        "finger_chart": "fingering_chart/alto/D#6.png",
+        "audio": "sounds/alto/D#6.wav"
+      },
+      "E6": {
+        "finger_chart": "fingering_chart/alto/E6.png",
+        "audio": "sounds/alto/E6.wav"
+      },
+      "F♭6": {
+        "finger_chart": "fingering_chart/alto/E6.png",
+        "audio": "sounds/alto/E6.wav"
+      },
+      "F6": {
+        "finger_chart": "fingering_chart/alto/F6_1.png;fingering_chart/alto/F6_2.png",
+        "audio": "sounds/alto/F6.wav"
+      },
+      "E#6": {
+        "finger_chart": "fingering_chart/alto/F6_1.png;fingering_chart/alto/F6_2.png",
+        "audio": "sounds/alto/F6.wav"
+      },
+      "F#6": {
+        "finger_chart": "fingering_chart/alto/F#6.png",
+        "audio": "sounds/alto/F#6.wav"
+      },
+      "G♭6": {
+        "finger_chart": "fingering_chart/alto/F#6.png",
+        "audio": "sounds/alto/F#6.wav"
+      }
+    }
+  }
