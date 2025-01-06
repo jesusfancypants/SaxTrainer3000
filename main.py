@@ -427,3 +427,17 @@ if __name__ == "__main__":
     pygame.mixer.init()
     data = init_jsons()  # Load JSON data for notes and resources
     start_gui(data[0], data[1])  # Start the GUI
+
+    notes = []
+    for d in data[0]['Alto']['Octave']:
+        for n in d['natural']:
+            notes.append(n)
+        for n in d['sharp']:
+            notes.append(n)
+        for n in d['enharmonic']:
+            notes.append(n)
+
+    resources = []
+    for key, value in data[1]['Alto'].items():
+        # print(key, value['audio'])
+        resources.append([key, value['audio']])
